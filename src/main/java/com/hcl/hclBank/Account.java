@@ -5,7 +5,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="account")
+@Table(name="firstAccunt")
 public class Account {
 	@Id
 	int accountno;
